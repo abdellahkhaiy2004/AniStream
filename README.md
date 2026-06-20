@@ -93,7 +93,7 @@ AniStream/
 
 ---
 
-## 🗺️ Roadmap
+##  Roadmap
 
 - [ ] User accounts & cloud-synced watchlist
 - [ ] Episode progress tracking
