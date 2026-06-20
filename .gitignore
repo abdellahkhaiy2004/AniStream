@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# Android / Gradle build artifacts
+androidAPP/android/.gradle/
+androidAPP/android/build/
+androidAPP/android/app/build/
+androidAPP/android/capacitor-cordova-android-plugins/build/
+androidAPP/android/local.properties
+androidAPP/android/.idea/
+androidAPP/.idea/
+**/*.iml
+
+# Android Studio captures
+androidAPP/android/captures/
+
+# Keystores (never commit signing keys)
+*.jks
+*.keystore
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

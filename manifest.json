@@ -1,0 +1,19 @@
+{
+    "name": "AniStream",
+    "short_name": "AniStream",
+    "description": "Your ultimate anime companion — browse, discover & track anime",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#07071A",
+    "theme_color": "#07071A",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "categories": ["entertainment"]
+}

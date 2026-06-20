@@ -1,0 +1,23 @@
+{
+    "name": "anistream-android",
+    "version": "1.0.0",
+    "description": "AniStream — Your Anime Universe (Android App)",
+    "main": "index.js",
+    "scripts": {
+        "build": "echo 'No build step needed'",
+        "cap:sync": "npx cap sync",
+        "cap:open": "npx cap open android"
+    },
+    "keywords": [
+        "anime",
+        "streaming",
+        "android"
+    ],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@capacitor/android": "^8.1.0",
+        "@capacitor/cli": "^8.1.0",
+        "@capacitor/core": "^8.1.0"
+    }
+}

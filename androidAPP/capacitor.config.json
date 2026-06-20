@@ -1,0 +1,14 @@
+{
+    "appId": "com.anistream.app",
+    "appName": "AniStream",
+    "webDir": "www",
+    "server": {
+        "androidScheme": "https"
+    },
+    "android": {
+        "backgroundColor": "#07071A",
+        "allowMixedContent": true,
+        "captureInput": true,
+        "webContentsDebuggingEnabled": false
+    }
+}
