@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="icon.png" width="96" height="96" alt="AniStream logo" />
-
 # AniStream — Your Anime Universe 
 
 **A blazing-fast, mobile-first anime discovery app. Browse, search, and track your favorite anime — installable as a PWA or a native Android app.**
